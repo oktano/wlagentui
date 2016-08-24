@@ -1,0 +1,12 @@
+com\trlogic\wlagent\service\InMemoryMessageRepository.class
+com\trlogic\wlagent\configs\DatabaseConfig.class
+com\trlogic\wlagent\domain\Message.class
+com\trlogic\wlagent\web\UserController.class
+com\trlogic\wlagent\web\MainController.class
+com\trlogic\wlagent\web\MessageController.class
+com\trlogic\wlagent\domain\UserDao.class
+com\trlogic\wlagent\service\MessageRepository.class
+com\trlogic\wlagent\configs\WebSecurityConfig.class
+com\trlogic\wlagent\MainApplication.class
+com\trlogic\wlagent\domain\User.class
+com\trlogic\wlagent\MainApplication$1.class
